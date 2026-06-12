@@ -2,6 +2,10 @@
   "R": {
     "Version": "4.3.1",
     "Repositories": [
+      {
+        "Name": "INHOUSE",
+        "URL": "https://aegisrspm.akaws-r-alb.onecloudlabo.com/in-house-20251216/latest"
+      }
     ]
   },
   "Packages": {
